@@ -1,0 +1,17 @@
+ion-content { 
+    --background: rgb(100, 59, 11);
+}
+
+ion-card {
+    border-radius: 15px;
+
+    ion-card-title {
+        font-weight: bold;
+    }
+
+}
+
+ion-toolbar {
+    --background: rgb(100, 59, 11);
+    --color: #fff;
+}
