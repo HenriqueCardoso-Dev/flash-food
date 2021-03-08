@@ -1,6 +1,6 @@
 # Flash Food :hamburger:
 
-O aplicativo _**Flash Food**_ desenvolvido em **Ionic**, tem como seu principal foco, ser fruto de um estudo de **UX**, se baseando inicialmente na estrutura de um cardápio virtual.
+O aplicativo _**Flash Food**_ desenvolvido em **Ionic**, tem como seu principal foco, ser fruto de um estudo de **UI**, se baseando inicialmente na estrutura de um cardápio virtual.
 Sendo assim um aplicativo sem funcões de interação e sem uma estrutura de _**Back-End**_.
 
 ***
