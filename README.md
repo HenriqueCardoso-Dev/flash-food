@@ -7,7 +7,7 @@ Sendo assim um aplicativo sem funções de interação e sem uma estrutura de _*
 
 ### O que é possível encontrar nesse aplicativo?
 
-Bem, seguindo a ideia de um cardápio virtual, no aplicativo do **Flash Food** o usuário e inserido numa tela de produtos e preços, com um menu na pare inferior da tela para o facilitar a navegação entre os tipos dos produtos.
+Bem, seguindo a ideia de um cardápio virtual, no aplicativo do **Flash Food** o usuário é inserido numa tela de produtos e preços, com um menu na pare inferior da tela para o facilitar a navegação entre os tipos dos produtos.
 
 ### Essas categorias de "_tipos de produto_" são:
 
